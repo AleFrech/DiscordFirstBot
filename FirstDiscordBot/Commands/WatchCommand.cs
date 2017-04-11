@@ -23,7 +23,7 @@ namespace FirstDiscordBot.Commands
         {
             return new YouTubeService(new BaseClientService.Initializer()
             {
-                ApiKey = "AIzaSyDilIbUh2fZGI8BVBHXtdABc-FxYTufKbA",
+                ApiKey = "Token Here",
                 ApplicationName = this.GetType().ToString()
             });
         }
