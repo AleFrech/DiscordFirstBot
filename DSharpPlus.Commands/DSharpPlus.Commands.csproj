@@ -59,12 +59,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DSharpPlus\DSharpPlus.csproj">
-      <Project>{eb3d8310-dfad-4295-97f9-82e253647583}</Project>
-      <Name>DSharpPlus</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

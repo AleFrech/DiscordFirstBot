@@ -11,7 +11,7 @@ namespace FirstDiscordBot
 
         public DiscordServices()
         {
-            _token = "Token bot here";
+            _token = "MzAxMzUyNzg1MTMwMTYwMTI5.C85xaA.EjvKMq0LOuBSwcTAGEJuabJMzbE";
             Client = CreateDiscordCLient();
         }
 
