@@ -17,7 +17,7 @@ namespace FirstDiscordBot.Commands
         private readonly QueryBuilder _wolfram;
         public AskCommand()
         {
-            _wolfram = new QueryBuilder {AppId = "APV28R-3429WLQ6HL"};
+            _wolfram = new QueryBuilder {AppId = "Token Here"};
         }
 
         public async Task Execute(CommandEventArgs e)
